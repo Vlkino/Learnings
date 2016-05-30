@@ -1,4 +1,5 @@
 #EXTM3U 
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,STV1
 http://vlkino.no-ip.biz:8001/1:0:1:13F1:C87:3:EB0000:0:0:0:
 #EXTINF:-1,STV2
