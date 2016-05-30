@@ -1,0 +1,126 @@
+#EXTM3U 
+#EXTINF:-1,STV1
+http://vlkino.no-ip.biz:8001/1:0:1:13F1:C87:3:EB0000:0:0:0:
+#EXTINF:-1,STV2
+http://vlkino.no-ip.biz:8001/1:0:1:13F2:C87:3:EB0000:0:0:0:
+#EXTINF:-1,Markiza
+http://vlkino.no-ip.biz:8001/1:0:1:13EF:C87:3:EB0000:0:0:0:
+#EXTINF:-1,TV JOJ
+http://vlkino.no-ip.biz:8001/1:0:1:13ED:C87:3:EB0000:0:0:0:
+#EXTINF:-1,CT 1
+http://vlkino.no-ip.biz:8001/1:0:1:1F43:BC6:3:EB0000:0:0:0:
+#EXTINF:-1,CT 2
+http://vlkino.no-ip.biz:8001/1:0:1:1F44:BC6:3:EB0000:0:0:0:
+#EXTINF:-1,Prima
+http://vlkino.no-ip.biz:8001/1:0:1:1F42:BC6:3:EB0000:0:0:0:
+#EXTINF:-1,Nova
+http://vlkino.no-ip.biz:8001/1:0:1:3352:C93:3:EB0000:0:0:0:
+#EXTINF:-1,TV Barrandov
+http://vlkino.no-ip.biz:8001/1:0:1:13D3:C8A:3:EB0000:0:0:0:
+#EXTINF:-1,Kino Barrandov
+http://vlkino.no-ip.biz:8001/1:0:1:13D2:C8A:3:EB0000:0:0:0:
+#EXTINF:-1,Barrandov Plus
+http://vlkino.no-ip.biz:8001/1:0:1:145B:C98:3:EB0000:0:0:0:
+#EXTINF:-1,TA3
+http://vlkino.no-ip.biz:8001/1:0:1:13F3:C87:3:EB0000:0:0:0:
+#EXTINF:-1,JOJ PLUS
+http://vlkino.no-ip.biz:8001/1:0:1:13EE:C87:3:EB0000:0:0:0:
+#EXTINF:-1,JOJ Cinema
+http://vlkino.no-ip.biz:8001/1:0:1:1419:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Doma
+http://vlkino.no-ip.biz:8001/1:0:1:13F0:C87:3:EB0000:0:0:0:
+#EXTINF:-1,CT 24
+http://vlkino.no-ip.biz:8001/1:0:1:1F46:BC6:3:EB0000:0:0:0:
+#EXTINF:-1,DAJTO
+http://vlkino.no-ip.biz:8001/1:0:1:13F4:C87:3:EB0000:0:0:0:
+#EXTINF:-1,WAU
+http://vlkino.no-ip.biz:8001/1:0:1:1452:C98:3:EB0000:0:0:0:
+#EXTINF:-1,SMICHOV
+http://vlkino.no-ip.biz:8001/1:0:1:334D:C93:3:EB0000:0:0:0:
+#EXTINF:-1,TELKA
+http://vlkino.no-ip.biz:8001/1:0:1:3354:C93:3:EB0000:0:0:0:
+#EXTINF:-1,Prima Love 
+http://vlkino.no-ip.biz:8001/1:0:1:3355:C93:3:EB0000:0:0:0:
+#EXTINF:-1,Prima COOL
+http://vlkino.no-ip.biz:8001/1:0:1:3351:C93:3:EB0000:0:0:0:
+#EXTINF:-1,Prima ZOOM
+http://vlkino.no-ip.biz:8001/1:0:1:3353:C93:3:EB0000:0:0:0:
+#EXTINF:-1,KinoSvet
+http://vlkino.no-ip.biz:8001/1:0:1:1421:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Nova Cinema
+http://vlkino.no-ip.biz:8001/1:0:1:36F9:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,FANDA
+http://vlkino.no-ip.biz:8001/1:0:1:36F8:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,Discovery CZ
+http://vlkino.no-ip.biz:8001/1:0:1:13A8:C85:3:EB0000:0:0:0:
+#EXTINF:-1,History HD
+http://vlkino.no-ip.biz:8001/1:0:19:13B3:C95:3:EB0000:0:0:0:
+#EXTINF:-1,Nat Geo HD CZ
+http://vlkino.no-ip.biz:8001/1:0:1:15ED:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Nat Geo Wild HD CZ
+http://vlkino.no-ip.biz:8001/1:0:19:15EB:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Viasat HD
+http://vlkino.no-ip.biz:8001/1:0:1:13AB:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Viasat History
+http://vlkino.no-ip.biz:8001/1:0:1:13DB:C8A:3:EB0000:0:0:0:
+#EXTINF:-1,Viasat Explore/Spice
+http://vlkino.no-ip.biz:8001/1:0:1:13DA:C8A:3:EB0000:0:0:0:
+#EXTINF:-1,Viasat Nature
+http://vlkino.no-ip.biz:8001/1:0:1:13DC:C8A:3:EB0000:0:0:0:
+#EXTINF:-1,Spektrum HD
+http://vlkino.no-ip.biz:8001/1:0:1:2D7:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Crime and Invest. CZ
+http://vlkino.no-ip.biz:8001/1:0:19:1B8D:C88:3:EB0000:0:0:0:
+#EXTINF:-1,Cinemax
+http://vlkino.no-ip.biz:8001/1:0:1:2D6:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Doku CS
+http://vlkino.no-ip.biz:8001/1:0:1:2C9:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Film Europe HD
+http://vlkino.no-ip.biz:8001/1:0:19:13C6:C95:3:EB0000:0:0:0:
+#EXTINF:-1,AMC
+http://vlkino.no-ip.biz:8001/1:0:1:13D0:C8A:3:EB0000:0:0:0:
+#EXTINF:-1,Film+
+http://vlkino.no-ip.biz:8001/1:0:1:13A7:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Filmbox
+http://vlkino.no-ip.biz:8001/1:0:1:13CF:C8A:3:EB0000:0:0:0:
+#EXTINF:-1,Filmbox Family
+http://vlkino.no-ip.biz:8001/1:0:16:13BA:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Filmbox Extra HD
+http://vlkino.no-ip.biz:8001/1:0:19:13AA:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Filmbox Plus
+http://vlkino.no-ip.biz:8001/1:0:1:13AF:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Filmbox Premium
+http://vlkino.no-ip.biz:8001/1:0:16:13BB:C85:3:EB0000:0:0:0:
+#EXTINF:-1,HBO Comedy
+http://vlkino.no-ip.biz:8001/1:0:1:2C8:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,HBO HD
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=1280x720
+http://vlkino.no-ip.biz:8001/1:0:1:2C7:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,HBO2
+http://vlkino.no-ip.biz:8001/1:0:1:2D5:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Kino CS
+http://vlkino.no-ip.biz:8001/1:0:1:2CA:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Noe TV
+http://vlkino.no-ip.biz:8001/1:0:1:1F48:BC6:3:EB0000:0:0:0:
+#EXTINF:-1,TV Lux
+http://vlkino.no-ip.biz:8001/1:0:1:1454:C98:3:EB0000:0:0:0:
+#EXTINF:-1,AutoMotorSport HD
+http://vlkino.no-ip.biz:8001/1:0:19:17D7:C91:3:EB0000:0:0:0:
+#EXTINF:-1,CT sport HD
+http://vlkino.no-ip.biz:8001/1:0:19:1328:CA2:3:EB0000:0:0:0:
+#EXTINF:-1,Eurosport HD
+http://vlkino.no-ip.biz:8001/1:0:19:13B7:C95:3:EB0000:0:0:0:
+#EXTINF:-1,Eurosport 2 HD
+http://vlkino.no-ip.biz:8001/1:0:19:13B1:C95:3:EB0000:0:0:0:
+#EXTINF:-1,NOVA Sport 1 HD
+http://vlkino.no-ip.biz:8001/1:0:19:3393:C89:3:EB0000:0:0:0:
+#EXTINF:-1,Slovak Sport
+http://vlkino.no-ip.biz:8001/1:0:1:13B2:C95:3:EB0000:0:0:0:
+#EXTINF:-1,Sport 1 CZ
+http://vlkino.no-ip.biz:8001/1:0:1:2DB:C9A:3:EB0000:0:0:0:
+#EXTINF:-1,Sport 2 HD
+http://vlkino.no-ip.biz:8001/1:0:19:13AD:C85:3:EB0000:0:0:0:
+#EXTINF:-1,Sport 5
+http://vlkino.no-ip.biz:8001/1:0:16:13BE:C85:3:EB0000:0:0:0:
+#EXTINF:-1,TV Paprika
+http://vlkino.no-ip.biz:8001/1:0:16:13AE:C85:3:EB0000:0:0:0:
