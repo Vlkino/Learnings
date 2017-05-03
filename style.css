@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Allan');
+html { 
+  background: url(https://media.giphy.com/media/g6pqS3ANcLB3a/giphy.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+}
+container{
+    position: relative;
+}
+h3{
+	position:absolute;
+	top: 0%;
+	left: 25%;
+	color: #1c6197;
+	font-size: 5vw;
+	text-shadow: 2px 2px 2px black;
+	font-family: 'Allan';
+}
+h2{
+    position:absolute;
+    left: 35%;
+	top: 20%;
+	font-size: 5vw;
+	color: red;
+font-family: 'Allan';
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+h1{
+    position:absolute;
+	left: 52%;
+	top: 40%;
+	font-size: 4vw;
+	color: red;
+	font-family: 'Allan';
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+	}
+h4{
+	position:absolute;
+	top: 30%;
+	left: 25%;
+	color: #1c6197;
+	font-size: 5vw;
+	text-shadow: 2px 2px 2px black;
+	font-family: 'Allan';
+}
+h5{
+	position:absolute;
+	top: 26.5%;
+	left: 60%;
+	color: #1c6197;
+	font-size: 5vw;
+	text-shadow: 2px 2px 2px black;
+	font-family: 'Allan';
+}
+a{
+	position:absolute;
+	top: 70%;
+	left: 30%;
+	color: #1c6197;
+	font-size: 5vw;
+	text-shadow: 2px 2px 2px black;
+	font-family: 'Allan';
+}
