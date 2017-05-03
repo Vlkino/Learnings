@@ -6,6 +6,8 @@ html {
   -o-background-size: cover;
   background-size: cover;
   height: 100%;
+  position: relative;
+  object-fit: contain;
 }
 container{
     position: relative;
