@@ -1,0 +1,7 @@
+#proxmox variable for api
+#
+api_user: 'prx_user@pam'
+api_password: '{{ vault_api_password }}'
+api_token_id: 'prx_token_id'  
+prx02_host: 'prx_host_ip/fqdn' 
+prx01_host: 'prx_host_ip/fqdn'  

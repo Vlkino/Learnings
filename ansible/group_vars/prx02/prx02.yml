@@ -1,0 +1,6 @@
+# This is for Xwing node
+api_user: 'prx_user@pam'
+api_password: '{{ vault_api_password }}' 
+api_host: 'prx_host_ip/fqdn'
+api_token_id: 'prx_token_id'
+api_token_secret: 'prx_token_Secret'
