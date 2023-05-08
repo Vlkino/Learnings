@@ -1,0 +1,16 @@
+---
+- name: 'list'
+  hosts: pve 
+  tasks:
+  - name: List existing storages
+    community.general.proxmox_storage_info:
+      api_host: "{{ api_host }}" 
+      api_user: "{{ api_user }}" 
+      api_password: "{{ api_password }}" 
+      validate_certs: false  
+    register: proxmox_storages
+
+  - name: Result of task
+    debug:
+      msg: "{{ item.storage }} - {{ item.type }}"
+    loop: "{{ proxmox_storages.proxmox_storages }}"

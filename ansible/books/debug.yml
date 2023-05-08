@@ -1,0 +1,6 @@
+---
+- hosts: prx02
+  tasks:
+    - name: debug api password
+      debug:
+        var: "{{ api_password }}"
